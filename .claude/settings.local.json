@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(timeout 30s tail -f hira_classification_mapper.log)",
+      "Bash(timeout 60s tail -f hira_deep_classification.log)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,117 @@
+2025-07-25 17:13:17,402 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:13:17,976 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:13:19,947 - INFO - 웹사이트 접속: https://biz.hira.or.kr/popup.ndo?formname=qya_bizcom%3A%3AInfoBank.xfdl&framename=InfoBank
+2025-07-25 17:13:27,670 - INFO - 진행률: 1/2890 (0.0%)
+2025-07-25 17:13:27,670 - INFO - 수가코드 '0' 처리 시작
+2025-07-25 17:13:37,685 - ERROR - 수가코드 '0' 처리 중 오류 발생: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#InfoBank_form_divMain_divWork1_edtSearchTxt_input") to be visible
+
+2025-07-25 17:13:39,694 - INFO - 진행률: 2/2890 (0.1%)
+2025-07-25 17:13:39,694 - INFO - 수가코드 '1' 처리 시작
+2025-07-25 17:13:44,104 - ERROR - 수가코드 '1' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("#InfoBank_form_divMain_divWork1_edtSearchTxt_input") to be visible
+
+2025-07-25 17:13:46,118 - INFO - 진행률: 3/2890 (0.1%)
+2025-07-25 17:13:46,118 - INFO - 수가코드 '2' 처리 시작
+2025-07-25 17:13:46,121 - ERROR - 수가코드 '2' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:13:48,132 - INFO - 진행률: 4/2890 (0.1%)
+2025-07-25 17:13:48,132 - INFO - 수가코드 '3' 처리 시작
+2025-07-25 17:13:48,135 - ERROR - 수가코드 '3' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:13:50,144 - INFO - 진행률: 5/2890 (0.2%)
+2025-07-25 17:13:50,144 - INFO - 수가코드 '4' 처리 시작
+2025-07-25 17:13:50,146 - ERROR - 수가코드 '4' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:13:52,157 - INFO - 진행률: 6/2890 (0.2%)
+2025-07-25 17:13:52,157 - INFO - 수가코드 '5' 처리 시작
+2025-07-25 17:13:52,159 - ERROR - 수가코드 '5' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:13:54,170 - INFO - 진행률: 7/2890 (0.2%)
+2025-07-25 17:13:54,170 - INFO - 수가코드 '6' 처리 시작
+2025-07-25 17:13:54,172 - ERROR - 수가코드 '6' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:19:30,766 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:19:31,309 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:19:32,234 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/main.do
+2025-07-25 17:19:36,961 - INFO - 메뉴에서 팝업 열기 실패, 직접 팝업 URL로 접속
+2025-07-25 17:19:47,908 - ERROR - 팝업 페이지 열기 실패: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:19:48,032 - ERROR - 크롤링 실행 중 오류: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:21:28,249 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:21:28,757 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:21:29,651 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/main.do
+2025-07-25 17:21:34,395 - INFO - 메뉴에서 팝업 열기 실패, 직접 팝업 URL로 접속
+2025-07-25 17:21:41,324 - ERROR - 팝업 페이지 열기 실패: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:21:41,455 - ERROR - 크롤링 실행 중 오류: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:21:50,136 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:21:50,652 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:21:51,507 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/main.do
+2025-07-25 17:21:56,204 - INFO - 메뉴에서 팝업 열기 실패, 직접 팝업 URL로 접속
+2025-07-25 17:22:03,202 - ERROR - 팝업 페이지 열기 실패: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:22:03,319 - ERROR - 크롤링 실행 중 오류: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:23:20,988 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:23:21,494 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:23:22,329 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/index.do
+2025-07-25 17:23:29,926 - INFO - 메뉴 링크 발견: text=심사기준 종합서비스
+2025-07-25 17:23:31,265 - INFO - 팝업 페이지가 성공적으로 열렸습니다.
+2025-07-25 17:23:36,297 - ERROR - 팝업 페이지 열기 실패: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:23:36,430 - ERROR - 크롤링 실행 중 오류: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:28:12,942 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:28:13,447 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:28:14,331 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/index.do
+2025-07-25 17:28:24,010 - INFO - 메뉴 링크 발견: text=심사기준 종합서비스
+2025-07-25 17:28:28,403 - INFO - 팝업 페이지가 성공적으로 열렸습니다.
+2025-07-25 17:28:30,443 - INFO - 메인 페이지를 닫았습니다.
+2025-07-25 17:28:35,461 - ERROR - 팝업 페이지 열기 실패: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:28:35,622 - ERROR - 크롤링 실행 중 오류: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:59:19,500 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 17:59:20,029 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 17:59:20,877 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/index.do
+2025-07-25 17:59:26,494 - INFO - 메뉴 링크 발견: text=심사기준 종합서비스
+2025-07-25 17:59:30,831 - INFO - 팝업 페이지가 성공적으로 열렸습니다.
+2025-07-25 17:59:32,864 - INFO - 메인 페이지를 닫았습니다.
+2025-07-25 17:59:32,865 - INFO - 진행률: 1/2890 (0.0%)
+2025-07-25 17:59:32,865 - INFO - 수가코드 '0' 처리 시작
+2025-07-25 17:59:32,875 - ERROR - 수가코드 '0' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("#InfoBank_form_divMain_divWork1_edtSearchTxt_input") to be visible
+
+2025-07-25 17:59:34,888 - INFO - 진행률: 2/2890 (0.1%)
+2025-07-25 17:59:34,888 - INFO - 수가코드 '1' 처리 시작
+2025-07-25 17:59:34,890 - ERROR - 수가코드 '1' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 17:59:36,902 - INFO - 진행률: 3/2890 (0.1%)
+2025-07-25 17:59:36,902 - INFO - 수가코드 '2' 처리 시작
+2025-07-25 17:59:36,905 - ERROR - 수가코드 '2' 처리 중 오류 발생: Locator.wait_for: Target page, context or browser has been closed
+2025-07-25 18:03:26,727 - INFO - HIRA 수가코드 크롤링 시작
+2025-07-25 18:03:27,238 - INFO - 엑셀 파일에서 2890개의 수가코드를 읽었습니다.
+2025-07-25 18:03:28,137 - INFO - 메인 페이지 접속: https://biz.hira.or.kr/index.do
+2025-07-25 18:03:33,748 - INFO - 메뉴 링크 발견: text=심사기준 종합서비스
+2025-07-25 18:03:38,154 - INFO - 팝업 페이지가 성공적으로 열렸습니다.
+2025-07-25 18:03:38,155 - INFO - Nexacro 세션 유지를 위해 메인 페이지를 열린 상태로 유지합니다.
+2025-07-25 18:03:38,155 - INFO - 진행률: 1/2890 (0.0%)
+2025-07-25 18:03:38,155 - INFO - 수가코드 '0' 처리 시작
+2025-07-25 18:03:40,692 - INFO - 검색어 입력 완료: 0
+2025-07-25 18:03:40,700 - ERROR - 수가코드 '0' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:03:42,714 - INFO - 진행률: 2/2890 (0.1%)
+2025-07-25 18:03:42,714 - INFO - 수가코드 '1' 처리 시작
+2025-07-25 18:03:45,269 - INFO - 검색어 입력 완료: 1
+2025-07-25 18:03:45,277 - ERROR - 수가코드 '1' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:03:47,281 - INFO - 진행률: 3/2890 (0.1%)
+2025-07-25 18:03:47,281 - INFO - 수가코드 '2' 처리 시작
+2025-07-25 18:03:49,823 - INFO - 검색어 입력 완료: 2
+2025-07-25 18:03:49,830 - ERROR - 수가코드 '2' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:03:51,841 - INFO - 진행률: 4/2890 (0.1%)
+2025-07-25 18:03:51,841 - INFO - 수가코드 '3' 처리 시작
+2025-07-25 18:03:54,399 - INFO - 검색어 입력 완료: 3
+2025-07-25 18:03:54,407 - ERROR - 수가코드 '3' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:03:56,413 - INFO - 진행률: 5/2890 (0.2%)
+2025-07-25 18:03:56,413 - INFO - 수가코드 '4' 처리 시작
+2025-07-25 18:03:58,945 - INFO - 검색어 입력 완료: 4
+2025-07-25 18:03:58,952 - ERROR - 수가코드 '4' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:04:00,958 - INFO - 진행률: 6/2890 (0.2%)
+2025-07-25 18:04:00,958 - INFO - 수가코드 '5' 처리 시작
+2025-07-25 18:04:03,503 - INFO - 검색어 입력 완료: 5
+2025-07-25 18:04:03,510 - ERROR - 수가코드 '5' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:04:05,512 - INFO - 진행률: 7/2890 (0.2%)
+2025-07-25 18:04:05,512 - INFO - 수가코드 '6' 처리 시작
+2025-07-25 18:04:08,054 - INFO - 검색어 입력 완료: 6
+2025-07-25 18:04:08,061 - ERROR - 수가코드 '6' 처리 중 오류 발생: Locator.wait_for: state: expected one of (attached|detached|visible|hidden)
+2025-07-25 18:04:10,072 - INFO - 진행률: 8/2890 (0.3%)
+2025-07-25 18:04:10,072 - INFO - 수가코드 '7' 처리 시작
